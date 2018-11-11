@@ -1,0 +1,29 @@
+C:\Users\imrag\Documents\Visual Studio 2017\Projects\project 1\project 1\bin\x86\Debug\project 1.exe.config
+C:\Users\imrag\Documents\Visual Studio 2017\Projects\project 1\project 1\bin\x86\Debug\project 1.exe
+C:\Users\imrag\Documents\Visual Studio 2017\Projects\project 1\project 1\bin\x86\Debug\project 1.pdb
+C:\Users\imrag\Documents\Visual Studio 2017\Projects\project 1\project 1\obj\x86\Debug\project_1.Form1.resources
+C:\Users\imrag\Documents\Visual Studio 2017\Projects\project 1\project 1\obj\x86\Debug\project_1.Form2.resources
+C:\Users\imrag\Documents\Visual Studio 2017\Projects\project 1\project 1\obj\x86\Debug\project_1.Form4.resources
+C:\Users\imrag\Documents\Visual Studio 2017\Projects\project 1\project 1\obj\x86\Debug\project_1.Form3.resources
+C:\Users\imrag\Documents\Visual Studio 2017\Projects\project 1\project 1\obj\x86\Debug\project_1.Properties.Resources.resources
+C:\Users\imrag\Documents\Visual Studio 2017\Projects\project 1\project 1\obj\x86\Debug\project 1.csproj.GenerateResource.cache
+C:\Users\imrag\Documents\Visual Studio 2017\Projects\project 1\project 1\obj\x86\Debug\project 1.csproj.CoreCompileInputs.cache
+C:\Users\imrag\Documents\Visual Studio 2017\Projects\project 1\project 1\obj\x86\Debug\project 1.exe
+C:\Users\imrag\Documents\Visual Studio 2017\Projects\project 1\project 1\obj\x86\Debug\project 1.pdb
+C:\Users\imrag\Documents\Visual Studio 2017\Projects\project 1\project 1\obj\x86\Debug\project 1.csprojAssemblyReference.cache
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\bin\x86\Debug\project 1.exe.config
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\bin\x86\Debug\project 1.exe
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\bin\x86\Debug\project 1.pdb
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\bin\x86\Debug\nunit.framework.dll
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\bin\x86\Debug\nunit.framework.pdb
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\bin\x86\Debug\nunit.framework.xml
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\obj\x86\Debug\project_1.Form1.resources
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\obj\x86\Debug\project_1.Form2.resources
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\obj\x86\Debug\project_1.Form4.resources
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\obj\x86\Debug\project_1.Form3.resources
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\obj\x86\Debug\project_1.Properties.Resources.resources
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\obj\x86\Debug\project 1.csproj.GenerateResource.cache
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\obj\x86\Debug\project 1.csproj.CoreCompileInputs.cache
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\obj\x86\Debug\project 1.csproj.CopyComplete
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\obj\x86\Debug\project 1.exe
+C:\Users\Rupinder Singh Com\source\repos\project 1\project 1\obj\x86\Debug\project 1.pdb
